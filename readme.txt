@@ -1,0 +1,2 @@
+La macro compte.ijm fonctionne avec des fichiers en .tif, mais peut accepter les .tiff si le suffixe de variable est changé dans la macro.
+Si le seuil automatique de StarDist sature, il peut être réglé manuellement avant de run compte.ijm
